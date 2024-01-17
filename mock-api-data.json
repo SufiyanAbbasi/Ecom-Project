@@ -1,0 +1,78 @@
+  {
+    "user": [
+      {
+      "name": "Leanne Graham",
+      "mobNumber": "1-770-736-8031 x56442",
+      "age": 19,
+      "dob": "1995-4-9",
+      "email": "Sincere@april.biz",
+      "password": "qawswa",
+      "address": {
+        "addLine1": "Kulas Light",
+        "addLine2": "Apt. 556",
+        "city": "Gwenborough",
+        "state": "agra",
+        "zipcode": "92998-3874"
+      },
+      "language": [
+        "English",
+        "Urdu",
+        "Pashto"
+      ],
+      "gender": "male",
+      "aboutYou": "Programmer",
+      "uploadPhoto": "mypic.png",
+      "agreetc": true,
+      "role": "admin",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "aaaaa",
+      "uploadPhoto": "mypic.png",
+      "productDesc": "aaaccusamus beatae ad facilis cum similique qui sunt",
+      "mrp": "1000",
+      "dp": "499",
+      "status": "publish"
+    },
+    {
+      "id": 2,
+      "name": "bbbbbaaaaa",
+      "uploadPhoto": "mypic.png",
+      "productDesc": "bbbbbaccusamus beatae ad facilis cum similique qui sunt",
+      "mrp": "1000",
+      "dp": "499",
+      "status": "publish"
+    },
+    {
+      "id": 3,
+      "name": "cccc",
+      "uploadPhoto": "mypic.png",
+      "productDesc": "ccccaccusamus beatae ad facilis cum similique qui sunt",
+      "mrp": "1000",
+      "dp": "499",
+      "status": "draft"
+    },
+    {
+      "id": 4,
+      "name": "ddddaaaaa",
+      "uploadPhoto": "mypic.png",
+      "productDesc": "dddddaccusamus beatae ad facilis cum similique qui sunt",
+      "mrp": "1000",
+      "dp": "499",
+      "status": "inactive"
+    },
+    {
+      "id": 5,
+      "name": "eeeeaaaaa",
+      "uploadPhoto": "mypic.png",
+      "productDesc": "eeeeeaccusamus beatae ad facilis cum similique qui sunt",
+      "mrp": "1000",
+      "dp": "499",
+      "status": "publish"
+    }   
+ 
+  ]
+}
